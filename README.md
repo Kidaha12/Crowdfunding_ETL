@@ -5,8 +5,11 @@ For the ETL mini project, we worked on building an ETL (Extract Transform and Lo
 Data Frames for all four tables were created and manual data captured in the respective resources csv files:
 
 Category: category_id , category > 
+
 Subcategory: subcategory_id, category >
+
 Contacts: contact_id, email, first_name, last_name >
+
 Campaign: cf_id, contact_id, company_name, description, goal,	pledged, outcome,	backers_count, country, currency,	launched_date, end_date, category_id, subcategory_id >
 
 ERD of the crowdfunding_db_schema.sql
