@@ -1,6 +1,6 @@
 # Crowdfunding_ETL#
 
-For the ETL mini project, we worked on building an ETL (Extract Transform and Load) pipeline of the crowdfunding and contacts excel file sin the Resources folder. In a Jupyter notebook file we used Python, Pandas, and regular expression to extract and transform the data. After transforming the data, we created four CSV files (all in resources folder) and used the CSV file data to create an ERD and a table schema. Finally, uploaded the CSV file data to their respective tables in a Postgres database.
+For the ETL mini project, we worked on building an ETL (Extract Transform and Load) pipeline of the crowdfunding and contacts excel files in the Resources folder. In a Jupyter notebook file we used Python, Pandas, and regular expression to extract and transform the data. After transforming the data, we created four CSV files (all in resources folder) and used the CSV file data to create an ERD and a table schema. Finally, uploaded the CSV file data to their respective tables in a Postgres database.
 
 Data Frames for all four tables were created and manual data captured in the respective resources csv files:
 
